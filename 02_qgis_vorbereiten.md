@@ -14,3 +14,7 @@ In QGIS `strg + umschalt + w` zum öffnen der Datenquellenverwaltung. Dort `Neu`
 - (QuickOSM)
 - (qgis2web)
 - (qgis2threejs)
+
+## Hilfe
+
+- https://docs.qgis.org/3.4/de/docs/user_manual/
