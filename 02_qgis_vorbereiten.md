@@ -12,5 +12,5 @@ In QGIS `strg + umschalt + w` zum öffnen der Datenquellenverwaltung. Dort `Neu`
 
 - (norGIS)
 - (QuickOSM)
-
-
+- (qgis2web)
+- (qgis2threejs)
