@@ -10,7 +10,7 @@ In QGIS `strg + umschalt + w` zum öffnen der Datenquellenverwaltung. Dort `Neu`
 
 ## Plugins Installieren
 
-(norGIS)
-(QuickOSM)
+- (norGIS)
+- (QuickOSM)
 
 
