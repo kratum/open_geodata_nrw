@@ -2,7 +2,7 @@ Für die folgenden Schritte ist der Zugriff auf einen Postgres Datenbankserver e
 
 GUI: pgAdmin
 
-psql
+psql:
 
 ```
 CREATE DATABASE meine_datenbank;
