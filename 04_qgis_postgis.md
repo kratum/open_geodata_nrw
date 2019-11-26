@@ -27,5 +27,8 @@ Datenbank | Name der Datenbank
 
 ## Zugriffmöglichkeiten auf PostGIS aus QGIS
 
+(Sollten Bedienfelder oder Werkzeuge in der Oberfläche nicht sichtbar sein, lassen diese sich über einen `Rechtsklick` ins Menü aktivieren.)
+
+
 <img src="https://github.com/kratum/open_geodata_nrw/raw/master/images/04_03.PNG" alt="drawing" width="200"/>
 
