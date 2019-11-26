@@ -1,4 +1,4 @@
-## Mit PostGIS verbinden
+## QGIS mit PostGIS verbinden
 
 Benötigte Informationen über die Datenbank:
 - DB-Name
@@ -8,7 +8,7 @@ Benötigte Informationen über die Datenbank:
 - Passwort
 
 
-Im Bedienfeld Browser `Rechtsklick` auf PostGIS und Neue Verbindung erstellen
+In QGIS im Bedienfeld Browser `Rechtsklick` auf PostGIS und Neue Verbindung erstellen
 
 <img src="https://github.com/kratum/open_geodata_nrw/raw/master/images/04_01.PNG" alt="drawing" width="200"/>
 
@@ -24,3 +24,8 @@ Datenbank | Name der Datenbank
 
 
 <img src="https://github.com/kratum/open_geodata_nrw/raw/master/images/04_02.PNG" alt="drawing" width="200"/>
+
+## Zugriffmöglichkeiten auf PostGIS aus QGIS
+
+<img src="https://github.com/kratum/open_geodata_nrw/raw/master/images/04_03.PNG" alt="drawing" width="200"/>
+
