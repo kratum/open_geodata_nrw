@@ -8,6 +8,8 @@ Name | url
 Open NRW | https://open.nrw/suche
 Downloadserver | https://www.opengeodata.nrw.de/produkte/geobasis
 
+### WMS Dienste der Bezirksregierung Köln
+https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/webdienste/geodatendienste/index.html
 
 ### Orthophotos und Karten als wms
 
