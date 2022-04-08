@@ -10,4 +10,4 @@ VRS DATA
 
 `unzip 20220308_gtfs_nrw.zip -d solldaten_nrw`
 
-Check the notebook [read_gtfs.ipynb](https://github.com/kratum/open_geodata_nrw/blob/master/read_gtfs.ipynb)
+Check the notebook [read_gtfs.ipynb](https://github.com/kratum/open_geodata_nrw/blob/master/06_get_gtfs_nrw.ipynb)
