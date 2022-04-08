@@ -33,6 +33,10 @@ QuickOSM https://plugins.qgis.org/plugins/QuickOSM/
 EU weite Umweltdaten (bsp. Gewässer)
 https://www.eea.europa.eu/data-and-maps/data/
 
+### opendata-oepnv.de
+
+Offene ÖPNV-Daten, gtfs, Fahrplandaten
+https://www.opendata-oepnv.de
 
 ### ESA
 
