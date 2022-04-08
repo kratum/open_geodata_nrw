@@ -12,3 +12,8 @@ VRS DATA
 
 Check the notebook [read_gtfs.ipynb](https://github.com/kratum/open_geodata_nrw/blob/master/06_get_gtfs_nrw.ipynb)
 
+
+
+[Stops_stop_times_count](https://github.com/kratum/open_geodata_nrw/blob/master/stops_stop_times_count.geojson)
+
+![nrw_stop_count](https://user-images.githubusercontent.com/11678642/162461246-df2a7122-2bf2-41ef-9be1-5b9dba41014d.PNG)
