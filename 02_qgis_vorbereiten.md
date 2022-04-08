@@ -20,4 +20,4 @@ https://www.bezreg-koeln.nrw.de/brk_internet/geobasis/webdienste/geodatendienste
 
 ## Hilfe
 
-- https://docs.qgis.org/3.4/de/docs/user_manual/
+- https://www.qgis.org/en/docs/index.html
