@@ -5,5 +5,6 @@
 
 ### unzip and upload to database
 `unzip Alleenkataster_EPSG25832_Shape.zip`
+
 `shp2pgsql vw_alpolylineproved.shp alleen | psql -U ccnrw -d ccnrw`
 
