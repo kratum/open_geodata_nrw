@@ -14,4 +14,4 @@
 ### unzip and upload to database
 `unzip NaturraeumlicheHaupteinheiten_EPSG25832_Shape.zip`
 
-`shp2pgsql vw_alpolylineproved.shp haupteinheiten | psql -U ccnrw -d ccnrw`
+`shp2pgsql vw_nhepolygonproved.shp haupteinheiten | psql -U ccnrw -d ccnrw`
