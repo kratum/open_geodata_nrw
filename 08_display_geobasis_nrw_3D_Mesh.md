@@ -1,5 +1,8 @@
 # 3D-Mesh von Geobasis NRW
 
+Die Bezirksregierung Köln stellt seit September 2024 3D-Meshes zur Verfügung. Folgend einige Links zu diesen Daten, sowie ein Viewer zum Ansehen der Daten.
+
+
 Ankündigung der Bereitstellung des 3D-Mesh:
 - https://www.bezreg-koeln.nrw.de/open-data-bereitstellung-des-3d-mesh
 
