@@ -1,4 +1,4 @@
-#3D-Mesh from Geobasis NRW
+# 3D-Mesh from Geobasis NRW
 
 Ankündigung der Bereitstellung des 3D-Mesh:
 
