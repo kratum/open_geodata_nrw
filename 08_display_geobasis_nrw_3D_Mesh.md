@@ -12,6 +12,6 @@ Find the Data as .slpk:
 - https://www.opengeodata.nrw.de/produkte/geobasis/lusat/akt/3dmesh/
 
 
-Display the Data with ArcGIS Javascript SDK
+Darstellung der Daten mit ArcGIS Javascript SDK
 - https://kratum.github.io/open_geodata_nrw/example_geobasis_nrw_3d_mesh.html
 
