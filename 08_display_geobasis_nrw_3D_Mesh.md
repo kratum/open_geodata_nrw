@@ -1,4 +1,4 @@
-# 3D-Mesh from Geobasis NRW
+# 3D-Mesh von Geobasis NRW
 
 Ankündigung der Bereitstellung des 3D-Mesh:
 - https://www.bezreg-koeln.nrw.de/open-data-bereitstellung-des-3d-mesh
