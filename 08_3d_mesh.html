@@ -49,25 +49,25 @@
 
     <script>
       require([
-	    "esri/Map",
-        "esri/views/SceneView",
-        "esri/layers/IntegratedMeshLayer",
-		"esri/layers/WMTSLayer",
-		"esri/layers/MediaLayer",
-		"esri/layers/support/ImageElement",
-		"esri/layers/support/ExtentAndRotationGeoreference",
-		"esri/geometry/Extent",
-        "esri/widgets/LayerList",
-		"esri/widgets/CoordinateConversion",
-		"esri/widgets/ElevationProfile",
-		"esri/widgets/Expand",
-        "esri/views/3d/webgl/RenderNode",
-        "esri/views/3d/webgl",
-		"esri/geometry/projection",
-		"esri/geometry/Point",
-        "esri/geometry/SpatialReference",
-		"esri/geometry/geometryEngine",
-		"esri/widgets/Daylight"
+	      "esri/Map",
+	      "esri/views/SceneView",
+	      "esri/layers/IntegratedMeshLayer",
+	      "esri/layers/WMTSLayer",
+	      "esri/layers/MediaLayer",
+	      "esri/layers/support/ImageElement",
+	      "esri/layers/support/ExtentAndRotationGeoreference",
+	      "esri/geometry/Extent",
+	      "esri/widgets/LayerList",
+	      "esri/widgets/CoordinateConversion",
+	      "esri/widgets/ElevationProfile",
+	      "esri/widgets/Expand",
+	      "esri/views/3d/webgl/RenderNode",
+	      "esri/views/3d/webgl",
+	      "esri/geometry/projection",
+	      "esri/geometry/Point",
+	      "esri/geometry/SpatialReference",
+	      "esri/geometry/geometryEngine",
+	      "esri/widgets/Daylight"
       ], (Map, SceneView, IntegratedMeshLayer, LayerList, CoordinateConversion, WMTSLayer, Extent, MediaLayer, ImageElement, ExtentAndRotationGeoreference, ElevationProfile, Expand, RenderNode, webgl, SpatialReference, projection, Point, geometryEngine, Daylight) => {
 
         /*************************************
@@ -76,44 +76,19 @@
          ***********************************/
         const layer = new IntegratedMeshLayer({
           url: 'https://www.gis.nrw.de/geobasis/3D_mesh/SceneServer',
-		  //parent: "ground",
-        });
-		
-
-		const raster_layer = new MediaLayer({
-			source: new ImageElement({				
-				image: "/export_flow_3d_mesh.png",
-				georeference:
-					new ExtentAndRotationGeoreference({
-						extent: new Extent({
-							xmin: 401200.210388,
-							ymin: 5653838.941973,
-							xmax: 403200.210388,
-							ymax: 5655838.941973,
-							spatialReference: {
-								wkid: 25832.
-						}
-					})
-				})
-			})
-		});
-
+        });		
 	
-		const map = new Map({
-		  layers: [layer],
-		  
-		});		
+	const map = new Map({
+	  layers: [layer],
+	});		
 
         const view = new SceneView({
           container: "viewDiv",
-		  map: map,
-		  spatialReference: {
-		    wkid: 25832, // UTM32N
-		  },
+		map: map,
+		spatialReference: {
+			wkid: 25832, // UTM32N
+		},
         });
- 
-
-		
 		
         const elevationProfile = new ElevationProfile({
           view: view,
@@ -461,8 +436,6 @@
           aperture = parseFloat(event.target.value);
           dofRenderNode.requestRender();
         });
-		
-
 
       });	  
 	  
